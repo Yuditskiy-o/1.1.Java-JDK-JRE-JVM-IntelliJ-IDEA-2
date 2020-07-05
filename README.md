@@ -16,7 +16,7 @@
 В процессе тестирования использовались следующие артефакты:
 * https://docs.google.com/spreadsheets/d/1skLBuANAAbCk2NEl4wOFw7EvmTcp2iUy0rrABhR5ekY/edit#gid=0 — Чек-лист для проверки номеров карт разных платежных систем
 
-В качестве тестовых данных использовались данные из репозитория [javaqa-homeworks/intro](https://github.com/netology-code/javaqa-homeworks/tree/master/intro), а также норме карта с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
+В качестве тестовых данных использовались данные из репозитория [javaqa-homeworks/intro](https://github.com/netology-code/javaqa-homeworks/tree/master/intro), а также номера карт с сайта [freeformatter.com](https://www.freeformatter.com/credit-card-number-generator-validator.html):
 * https://github.com/netology-code/javaqa-homeworks/blob/master/intro/idea.md — руководство позволяет корректно установить JetBrains Toolbox и IntelliJ IDEA, проблем не возникает (фактически — блокирующий установку баг после шага 3, см. прикрепленный ...issues/1);
 * https://www.freeformatter.com/credit-card-number-generator-validator.html — приложение Credit Card Number Validator позволяет корректно обработать номера карт от всех брендов платежных систем (фактически — есть дефекты, см. прикрепленные ...issues/2 и ...issues/3).
 
